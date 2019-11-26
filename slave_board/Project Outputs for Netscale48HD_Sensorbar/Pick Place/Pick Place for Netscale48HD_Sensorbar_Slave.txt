@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\Public\Documents\Altium\Projects\Sensorbar-48HD_Two_Boards\slave_board\Project Outputs for Netscale48HD_Sensorbar\Pick Place\NC Drill\Pick Place for Netscale48HD_Sensorbar_Slave.txt
+C:\Users\Public\Documents\Altium\Projects\Sensobar-48HD_6L\slave_board\Project Outputs for Netscale48HD_Sensorbar\Pick Place\Pick Place for Netscale48HD_Sensorbar_Slave.txt
 
 ========================================================================================================================
 File Design Information:
 
 Date:       26/11/19
-Time:       09:56
-Revision:   36a5d16f1f52440faf4dfc80d58e956b755477c3
+Time:       11:55
+Revision:   3f407aa4e27eb8a4e906728a99b66374e1c01350
 Variant:    No variations
 Units used: mil
 
