@@ -1,0 +1,72 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Projects\Sensorbar-48HD_Two_Boards\master_board\Netscale48HD_Sensorbar_Master.PcbDoc
+Date     : 11/20/2019
+Time     : 1:58:51 PM
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=3.15mil) (WithinRoom('BGA')),(OnLayer('Top Layer'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=20mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=19.685mil) (Preferred=5.906mil) (WithinRoom('BGA'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.984mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=5.906mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=39.37mil) (All)
+Rule Violations :0
+
+Processing Rule : Room BGA (Bounding Region = (5726.779mil, 1066.449mil, 6189.981mil, 1449.761mil) (False)
+Rule Violations :0
+
+Processing Rule : Room Power Supply (Bounding Region = (1078.541mil, 1020.152mil, 19318.265mil, 1736.805mil) (InComponentClass('Power Supply'))
+Rule Violations :0
+
+Processing Rule : Room RS4850 (Bounding Region = (936.03mil, 733.498mil, 19445.427mil, 1911.805mil) (InComponentClass('RS4850'))
+Rule Violations :0
+
+Processing Rule : Room Microcontroller (Bounding Region = (887.466mil, 602.396mil, 19563.278mil, 1945.388mil) (InComponentClass('Microcontroller'))
+Rule Violations :0
+
+Processing Rule : Room RFID (Bounding Region = (916.198mil, 697.789mil, 19433.984mil, 2054.64mil) (InComponentClass('RFID'))
+Rule Violations :0
+
+Processing Rule : Room Netscale48HD_Sensorbar (Bounding Region = (930.565mil, 710.152mil, 19491.448mil, 2017.947mil) (Disabled)(InComponentClass('Netscale48HD_Sensorbar'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01

@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Netscale48HD_Sensorbar_Master.PcbDoc   11/26/2019  7:58:23 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Netscale48HD_Sensorbar_Master.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             103       PTH        0.00mm (0.00inch)
+T2      0.2mm (8mil)                                              Round             51        PTH        0.00mm (0.00inch)
+T3      0.3mm (12mil)                                             Round             442       PTH        0.00mm (0.00inch)
+T4      0.65mm (26mil)                                            Round             2         PTH        0.00mm (0.00inch)
+T5      0.991mm (39mil)                                           Round             6         NPTH       0.00mm (0.00inch)
+T6      1.6mm (63mil)                                             Round             2         NPTH       0.00mm (0.00inch)
+T7      2.375mm (94mil)                                           Round             8         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              614
+
+Total Processing Time (hh:mm:ss) : 00:00:01

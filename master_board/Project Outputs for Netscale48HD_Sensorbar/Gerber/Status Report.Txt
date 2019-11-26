@@ -1,0 +1,31 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 7:57:24 AM On 11/26/2019
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Netscale48HD_Sensorbar_Master.PcbDoc]
+   Generated File[Netscale48HD_Sensorbar_Master.GTO]
+   Generated File[Netscale48HD_Sensorbar_Master.GTP]
+   Generated File[Netscale48HD_Sensorbar_Master.GTS]
+   Generated File[Netscale48HD_Sensorbar_Master.GTL]
+   Generated File[Netscale48HD_Sensorbar_Master.G2]
+   Generated File[Netscale48HD_Sensorbar_Master.G3]
+   Generated File[Netscale48HD_Sensorbar_Master.GBL]
+   Generated File[Netscale48HD_Sensorbar_Master.GBS]
+   Generated File[Netscale48HD_Sensorbar_Master.GBP]
+   Generated File[Netscale48HD_Sensorbar_Master.GBO]
+   Generated File[Netscale48HD_Sensorbar_Master.GM5]
+   Generated File[Netscale48HD_Sensorbar_Master.GM6]
+   Generated File[Netscale48HD_Sensorbar_Master.GKO]
+   Generated File[Netscale48HD_Sensorbar_Master.GPT]
+   Generated File[Netscale48HD_Sensorbar_Master.GPB]
+   Generated File[Netscale48HD_Sensorbar_Master.RUL]
+   Generated File[Netscale48HD_Sensorbar_Master.EXTREP]
+   Generated File[Netscale48HD_Sensorbar_Master.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 7:57:26 AM On 11/26/2019
