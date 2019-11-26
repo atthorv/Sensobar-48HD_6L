@@ -1,0 +1,33 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:54:27 AM On 11/26/2019
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Netscale48HD_Sensorbar_Slave.PcbDoc]
+   Generated File[Netscale48HD_Sensorbar_Slave.GTO]
+   Generated File[Netscale48HD_Sensorbar_Slave.GTP]
+   Generated File[Netscale48HD_Sensorbar_Slave.GTS]
+   Generated File[Netscale48HD_Sensorbar_Slave.GTL]
+   Generated File[Netscale48HD_Sensorbar_Slave.G2]
+   Generated File[Netscale48HD_Sensorbar_Slave.G3]
+   Generated File[Netscale48HD_Sensorbar_Slave.GBL]
+   Generated File[Netscale48HD_Sensorbar_Slave.GBS]
+   Generated File[Netscale48HD_Sensorbar_Slave.GBS1]
+   Generated File[Netscale48HD_Sensorbar_Slave.GBP1]
+   Generated File[Netscale48HD_Sensorbar_Slave.GBP]
+   Generated File[Netscale48HD_Sensorbar_Slave.GBO]
+   Generated File[Netscale48HD_Sensorbar_Slave.GM5]
+   Generated File[Netscale48HD_Sensorbar_Slave.GM6]
+   Generated File[Netscale48HD_Sensorbar_Slave.GKO]
+   Generated File[Netscale48HD_Sensorbar_Slave.GPT]
+   Generated File[Netscale48HD_Sensorbar_Slave.GPB]
+   Generated File[Netscale48HD_Sensorbar_Slave.RUL]
+   Generated File[Netscale48HD_Sensorbar_Slave.EXTREP]
+   Generated File[Netscale48HD_Sensorbar_Slave.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 9:54:28 AM On 11/26/2019

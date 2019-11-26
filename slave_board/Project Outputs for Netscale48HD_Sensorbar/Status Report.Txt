@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:00:23 PM On 11/20/2019
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Netscale48HD_Sensorbar_Slave.PrjPcb]
+   Generated File[test_BOM_S.xls]
+   Generated File[test_BOM_S.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 5:00:27 PM On 11/20/2019

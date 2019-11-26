@@ -1,0 +1,326 @@
+*************************************************************
+FileName = Netscale48HD_Sensorbar_Slave.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Pad Master
+      File : Netscale48HD_Sensorbar_Slave.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D59
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Netscale48HD_Sensorbar_Slave.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Netscale48HD_Sensorbar_Slave.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Netscale48HD_Sensorbar_Slave.GBS1
+
+    Adding Layer      : Top Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Netscale48HD_Sensorbar_Slave.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom_Signal_Layer
+      File : Netscale48HD_Sensorbar_Slave.G3
+
+    Adding Layer      : Bottom_Signal_Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D60
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Netscale48HD_Sensorbar_Slave.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D65
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Board_Cut_Outs
+      File : Netscale48HD_Sensorbar_Slave.GM6
+
+    Adding Layer      : Board_Cut_Outs
+
+
+Used DCodes :
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Netscale48HD_Sensorbar_Slave.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Netscale48HD_Sensorbar_Slave.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Netscale48HD_Sensorbar_Slave.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Top_Signal_Layer
+      File : Netscale48HD_Sensorbar_Slave.G2
+
+    Adding Layer      : Top_Signal_Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D60
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Drill_Hole_Dimensions
+      File : Netscale48HD_Sensorbar_Slave.GM5
+
+    Adding Layer      : Drill_Hole_Dimensions
+
+
+Used DCodes :
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Netscale48HD_Sensorbar_Slave.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D60
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Netscale48HD_Sensorbar_Slave.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Netscale48HD_Sensorbar_Slave.GBP1
+
+    Adding Layer      : Top Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Netscale48HD_Sensorbar_Slave.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+

@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:55:16 AM On 11/26/2019
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Netscale48HD_Sensorbar_Slave.PcbDoc]
+   Generated File[Netscale48HD_Sensorbar_Slave.TXT]
+   Generated File[Netscale48HD_Sensorbar_Slave.LDP]
+   Generated File[Netscale48HD_Sensorbar_Slave.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:55:17 AM On 11/26/2019

@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\Sensorbar-48HD_Two_Boards\slave_board\Netscale48HD_Sensorbar_Slave.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_BGA|Scope=Board|Minimum=3.15
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=width_BGA|Scope=Board|Minimum=5.12
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
